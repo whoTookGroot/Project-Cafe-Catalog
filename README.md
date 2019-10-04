@@ -20,4 +20,4 @@ The following site is still in development: [Cup'O Lounges](http://erikgrootendo
 - Site user accounts
 
 ## FIXMEs
-- Link to 'About Us' section. scrolled too far to the top of page. Section header is hidden by nav bar.
+- Link to 'About Us' section. Scrolled too down the top of page placing the header at the very top. Section header is hidden by nav bar when this occurs.
