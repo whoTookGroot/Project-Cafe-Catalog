@@ -18,3 +18,6 @@ The following site is still in development: [Cup'O Lounges](http://erikgrootendo
 
 ## Controversial Add Ons
 - Site user accounts
+
+## FIXMEs
+- Link to 'About Us' section. scrolled too far to the top of page. Section header is hidden by nav bar.
