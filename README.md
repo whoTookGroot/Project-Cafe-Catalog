@@ -1,9 +1,9 @@
 # Project-Cafe-Catalog
 
-##Introduction
+## Introduction
 The following site is still in development: [Cup'O Lounges](http://erikgrootendorst.com)
 
-##Functionality To Be Added (non-exhaustive list)
+## Functionality To Be Added (non-exhaustive list)
 
 - JSON / API endpoints
 - User Auth with OAuth
