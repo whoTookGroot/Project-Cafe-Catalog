@@ -15,3 +15,6 @@ The following site is still in development: [Cup'O Lounges](http://erikgrootendo
   * Edit cafes / menu items / location
   * Rating System & review postings
 - User submission limitations
+
+## Controversial Add Ons
+- Site user accounts
