@@ -1,7 +1,8 @@
 # Project-Cafe-Catalog
 
 ## Introduction
-The following site is still in development: [Cup'O Lounges](http://erikgrootendorst.com)
+The following site is still in development: [Cup'O Lounges](http://erikgrootendorst.com).
+Please ignore Menu Items / Cafe Items. It's all absolute malarkey right now. Just place holders.
 
 ## Functionality To Be Added (non-exhaustive list)
 
