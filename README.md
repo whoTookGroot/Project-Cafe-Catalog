@@ -21,5 +21,5 @@ Please ignore Menu Items / Cafe Items. It's all absolute malarkey right now. Jus
 - Site user accounts
 
 ## FIXMEs
-- Link to 'About Us' section. Scrolled too down the top of page placing the header at the very top. Section header is hidden by nav bar when this occurs.
+- Link to 'About Us' section. Scrolled too far down from the top of page, placing the header at the very top. Section header is hidden by nav bar when this occurs.
 - Modify JS alert-margin height to retrieve navbar height. More general purpose var to be used with page anchors.
