@@ -17,8 +17,9 @@ Please ignore Menu Items / Cafe Items. It's all absolute malarkey right now. Jus
   * Rating System & review postings
 - User submission limitations
 
-## Controversial Add Ons
+## Controversial/Possible Add Ons
 - Site user accounts (hashes hosted on backend | will coexist with OAuth)
+- User confirmation for delete actions
 
 ## FIXMEs
 - Modify JS alert-margin height to retrieve navbar height. More general purpose var to be used with page anchors.
