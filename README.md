@@ -18,8 +18,10 @@ Please ignore Menu Items / Cafe Items. It's all absolute malarkey right now. Jus
 - User submission limitations
 
 ## Controversial Add Ons
-- Site user accounts
+- Site user accounts (hashes hosted on server)
 
 ## FIXMEs
-- Link to 'About Us' section. Scrolled too far down from the top of page, placing the header at the very top. Section header is hidden by nav bar when this occurs.
 - Modify JS alert-margin height to retrieve navbar height. More general purpose var to be used with page anchors.
+
+## Future Issues to Encounter
+- As # of items grows, page load times will drastically increase. I'll need to implement a limit load and either load more as user scrolls, or give a 'Load More' option near end of page.
