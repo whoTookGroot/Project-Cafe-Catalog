@@ -18,7 +18,7 @@ Please ignore Menu Items / Cafe Items. It's all absolute malarkey right now. Jus
 - User submission limitations
 
 ## Controversial Add Ons
-- Site user accounts (hashes hosted on server)
+- Site user accounts (hashes hosted on backend | will coexist with OAuth)
 
 ## FIXMEs
 - Modify JS alert-margin height to retrieve navbar height. More general purpose var to be used with page anchors.
