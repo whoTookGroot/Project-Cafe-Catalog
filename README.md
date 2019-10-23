@@ -24,6 +24,7 @@ Please ignore Menu Items / Cafe Items. It's all absolute malarkey right now. Jus
 ## FIXMEs
 - Modify JS alert-margin height to retrieve navbar height. More general purpose var to be used with page anchors.
 - Window position resets to top after post request. After request, reload to previous scroll position.
+- Mobile nav bar doesnt assume black background when expanded if there isnt any 'scroll' to invoke this change. Issue can be     seen when 1 or less items is present in the content area.
 
 ## Future Issues to Encounter
 - As # of items grows, page load times will drastically increase. I'll need to implement a limit load and either load more as user scrolls, or give a 'Load More' option near end of page.
