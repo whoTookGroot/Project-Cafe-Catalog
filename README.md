@@ -28,3 +28,7 @@ Please ignore Menu Items / Cafe Items. It's all absolute malarkey right now. Jus
 
 ## Future Issues to Encounter
 - As # of items grows, page load times will drastically increase. I'll need to implement a limit load and either load more as user scrolls, or give a 'Load More' option near end of page.
+
+
+# Edit
+I dont think i'll continue working on this project for some time, if ever.
